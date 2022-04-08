@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Input Control</string>
+    <string name="cbx_chocolate">Chocolate syrup &#160;</string>
+    <string name="cbx_sprinkles">Sprinkles &#160;</string>
+    <string name="cbx_nuts">Crushed nuts &#160;</string>
+    <string name="cbx_cherries">Cherries &#160;</string>
+    <string name="cbx_cookie">Orio cookie crumbles &#160;</string>
+    <string name="btn_show_toast">SHOW TOAST</string>
+</resources>
